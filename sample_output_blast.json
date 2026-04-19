@@ -1,9 +1,0 @@
-{
-  "disease": "Rice Blast",
-  "severity": "High",
-  "confidence_score": 0.98,
-  "treatment": {
-    "chemical": "Tricyclazole",
-    "organic": "Neem oil spray"
-  }
-}
