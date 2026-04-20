@@ -93,23 +93,3 @@ Leaf photo → Gemini AI → Disease detected → Severity check → Email alert
 ## 📅 Hackathon
 **Project 2030: MyAI Future Hackathon** - Advancing the Nation, Building Solutions with Google AI.
 ```
-
----
-
-## How to Upload to GitHub
-
-1. Go to `https://github.com/sfjiayi14/farmleaf-api`
-2. Click **"Add file"** → **"Create new file"**
-3. File name: `README.md`
-4. Copy the corrected README above and paste it
-5. Click **"Commit new file"**
-
----
-
-## About the 405 Error
-
-The URL `https://farmleaf-api123-672762415207.us-central1.run.app/predict` returns a **405 error** when visited in a browser because it only accepts `POST` requests, not `GET` requests. This is **normal and correct** - your API is working as designed.
-
-The `curl` command you have in the README is the correct way to test it.
-
----
