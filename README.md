@@ -81,13 +81,6 @@ curl -X POST https://farmleaf-api123-672762415207.us-central1.run.app/predict \
 Leaf photo → Gemini AI → Disease detected → Severity check → Email alert
 ```
 
-## 👥 Team
-| Role | Member |
-|------|--------|
-| AI Prompt & Disease Rules | Person 1 |
-| API & Cloud Deployment | Person 2 |
-| Frontend (Firebase Studio) | Person 3 |
-
 ## 📅 Hackathon
 **Project 2030: MyAI Future Hackathon** - Advancing the Nation, Building Solutions with Google AI.
 ```
