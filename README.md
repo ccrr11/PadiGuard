@@ -8,6 +8,7 @@ Video Demo : https://drive.google.com/file/d/1x6Vxu-rPf173h00hGaYLr9_ebMPEJExc/v
 
 
 
+
 # 🌾 PadiGuard - AI Rice Disease Detector
 
 **PadiGuard** detects rice plant diseases from leaf photos using Google Gemini AI. Built for Project 2030 Hackathon - Track 1: Padi & Plates.
