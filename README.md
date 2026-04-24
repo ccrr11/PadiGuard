@@ -4,7 +4,7 @@ Project title : PadiGuard
 Agrotechnology: Strengthening food security through intelligent diagnostics
 
 Live Demo Link : https://studio--studio-2294378123-a7b3c.us-central1.hosted.app/
-Video Demo : 
+Video Demo : https://drive.google.com/file/d/1x6Vxu-rPf173h00hGaYLr9_ebMPEJExc/view?usp=sharing
 
 
 
