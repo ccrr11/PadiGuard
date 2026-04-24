@@ -1,10 +1,28 @@
-Project title : PadiGuard 
+<div align="center">
 
-#Track 1 
-Agrotechnology: Strengthening food security through intelligent diagnostics
+# 🌾 PadiGuard
+### Track 1: Agrotechnology
+**Strengthening food security through intelligent diagnostics**
 
-Live Demo Link : https://studio--studio-2294378123-a7b3c.us-central1.hosted.app/
-Video Demo : https://drive.google.com/file/d/1x6Vxu-rPf173h00hGaYLr9_ebMPEJExc/view?usp=sharing
+[![Live Demo](https://img.shields.io/badge/Live_App-Demo-green?style=for-the-badge&logo=google-cloud)](https://studio--studio-2294378123-a7b3c.us-central1.hosted.app/)
+[![Video Demo](https://img.shields.io/badge/Video-Demo-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1x6Vxu-rPf173h00hGaYLr9_ebMPEJExc/view?usp=sharing)
+
+</div>
+
+---
+
+## ℹ️ Project Overview
+**PadiGuard** is an agentic AI solution designed to protect Malaysia’s rice crops. By focusing on early detection of diseases like Blast, Brown Spot, and BLB, we empower farmers to take immediate action, reducing yield loss and supporting national food sovereignty.
+
+## 🚀 Key Features
+* **Multimodal Diagnosis:** Uses Gemini 2.0 Flash to "see" and identify leaf pathogens.
+* **Grounded Intelligence:** Verified against MARDI research via Vertex AI Search (RAG).
+* **Agentic Action:** Automatically suggests treatment plans and local supply resources.
+
+## 🛠️ Tech Stack
+* **AI:** Google Gemini 2.0 Flash (Vertex AI)
+* **Search/RAG:** Vertex AI Search
+* **Hosting:** Firebase & Google Cloud
 
 
 
